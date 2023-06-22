@@ -1,1 +1,1 @@
-0x03-debugging_task
+debugging-task
